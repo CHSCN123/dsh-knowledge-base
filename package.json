@@ -1,7 +1,7 @@
 {
   "name": "dsh-knowledge-base",
   "version": "0.3.0",
-  "description": "Local Markdown knowledge base for DSH: drop files in Settings to turn them into searchable notes.",
+  "description": "Drop files into DSH Settings and they become local Markdown notes: 262 formats (Office, PDF, EPUB, archives, code) parsed on your own disk — offline, nothing uploaded.",
   "type": "module",
   "main": "./index.js",
   "exports": {
